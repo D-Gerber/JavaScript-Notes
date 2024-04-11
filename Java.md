@@ -22,7 +22,7 @@
 -- Use camel notation. The first letter of the first word should be lowercase and the first letter of every word after should be uppercase(firstName)
 -- Or use snake notation snake_case is a variable naming convention where each word is in lower case, and separated by underscores (last_name)
 
-### Constants
+## Constants
 
 -- If you dont want the value of a variable to change then you use a constant. 
 -- The value of a variable can change but the value of a constant cannot change. 
@@ -30,7 +30,7 @@
 -- If you dont have to reassign then constant should be your choice 
 -- If you want to reassign thenuse let
 
-#### Primitive/ Value Types
+## Primitive/ Value Types
 
 -- String (let name = 'Daniel';)
 -- Number (let age = '30';)
@@ -38,7 +38,7 @@
 -- Undefined (Not very common to use this. If we dont initilize it by default its value is undifined)
 -- Null (We us null in situations where we want to explicitly clear the value of variable)
 
-##### Objects
+## Objects
 
 -- Think of an object like a person in real life we have a name, age and address and so. These are the properties of a person. 
 -- When dealing with multiple related variables you can put them inide of an object 
@@ -46,13 +46,13 @@
 -- Two ways to access a property and change the value. First is with Dot notation (person.name = 'Megan') and second is Bracket Notation [] person ['name'] = 'Megan'
 -- Dot notation is neater so it should be your default choice. 
 
-###### Arrays
+## Arrays
 
 -- When dealing with a list of objects in your applications for example the list of products in a shopping cart in a situation like that you use an array to store that list.
 -- [] Square brackets called array literal and they indicate an empty array.
 -- Array is a data structure that we use to represent a list of items
 
-###### Functions
+## Functions
 
 -- Functions are one of the fundemental building blocks in JavaScript, a function is basically s set of statements that preforms a task or calculates a value.
 -- () These are part of the syntax for declaring functions and then you put curly brackets {}
