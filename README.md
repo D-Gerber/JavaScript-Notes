@@ -1,5 +1,5 @@
 # JavaScript-Notes
- -JavaScript Notes (Code) from tutorials
+ - JavaScript Notes (Code) from tutorials
 
 ## 04-10--2024
 - Use (https://www.youtube.com/watch?v=W6NZfCO5SIk) this link for reference when notes dont make sense
